@@ -26,5 +26,13 @@ features, social network information, and the frequency of their interaction wit
 as number of posted status updates, photos, videos and likes. The aim of this project is to identify 
 users’ Big 5 Personality Traits and develop a model based on page likes for personality prediction.
 
+![alt text][algo]
+[algo]: https://github.com/bshikhar13/Emulsifier/blob/master/images/algo.PNG "Algorithm"
+
+![alt text][frontpage]
+[frontpage]: https://github.com/bshikhar13/Emulsifier/blob/master/images/frontpage.PNG "Front Page"
+
+![alt text][output]
+[output]: https://github.com/bshikhar13/Emulsifier/blob/master/images/output.png "Output"
 
 //Please input your facebook app-id and app-secret in process.php fil (I have removed mine here (I don't trust you folks!))
